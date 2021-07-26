@@ -1,0 +1,37 @@
+bg: #282a36
+bg-opacity 0.7
+fg: #f8f8f2
+
+# Black, Gray, Silver, White
+color0   #282a37
+color8   #626483
+
+# Red
+color1  #c30771
+color9  #fb007a
+
+# Green
+# color2  #83e6ae
+# color10  #4bcc9f
+color2 #4bcc9f
+color10 #83e6ae
+
+# Yellow
+color3  #a89c14
+color11  #f3e430
+
+# Blue
+color4  #008ec4
+color12  #20bbfc
+
+# Magenta
+color5   #926BCA
+color13  #5F1F8F
+
+# Cyan
+color6  #20a5ba
+color14  #4fb8cc
+
+# White
+color7  #d9d9d9
+color15  #f1f1f1
