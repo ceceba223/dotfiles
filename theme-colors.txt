@@ -11,8 +11,6 @@ color1  #c30771
 color9  #fb007a
 
 # Green
-# color2  #83e6ae
-# color10  #4bcc9f
 color2 #4bcc9f
 color10 #83e6ae
 
